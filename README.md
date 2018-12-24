@@ -2,7 +2,7 @@
 - [Software Foundation : Logical Foundation](https://softwarefoundations.cis.upenn.edu/lf-current/toc.html)
 
 ### Current Progress
-- [ ] Functional Programming in Coq    (Basics)
+- [x] Functional Programming in Coq    (Basics)
 - [ ] Proof by Induction    (Induction)
 - [ ] Working with Structured Data    (Lists)
 - [ ] Polymorphism and Higher-Order Functions    (Poly)
@@ -18,4 +18,4 @@
 - [ ] An Evaluation Function for Imp    (ImpCEvalFun)
 - [ ] Extracting ML from Coq    (Extraction)
 - [ ] More Automation    (Auto)
-- [ ]Postscript
+- [ ] Postscript
