@@ -1,4 +1,5 @@
-# Software-Foundation 1
+#  Software Foundations
+## Volume 1: Logical Foundations
 - [Software Foundation : Logical Foundation](https://softwarefoundations.cis.upenn.edu/lf-current/toc.html)
 
 ### Current Progress
